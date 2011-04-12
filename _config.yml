@@ -7,30 +7,30 @@
 author:
   ## Author's name, <meta name=author> in _layouts/default.html and used in
   ## humans.txt
-  name:      Kaleb Hornsby
+  name:      James Riley
   ## Author's title
   title:     Software Engineer
   ## Author's email address
-  email:     kaleb@hornsby.ws
+  email:     MechaTron42@gmail.com
   ## Author's web site
-  site:      http://kaleb.hornsby.ws
+  site:      http://www.google.com/profiles/MechaTron42
   ## Author's location
-  location:  "Augusta, GA, US"
+  location:  "Lincolnton, GA, US"
   ## Author's github user name
   gh:
-    user:    kaleb
-    repo:    gh-pages-boilerplate
+    user:    The42ndDruid
+    repo:    the42nddruid.github.com
   ## Author's twitter name
-  twitter:   thekaleb
+  twitter:   Mechatron04
   disqus: 
-    shortname: gh-pages-boilerplate
+    shortname: ""
 
 ## The absolute URL of your site. Should be user.github.com or whatever is in
 ## the root CNAME file
-url:         http://git.kaleb.hornsby.ws/gh-pages-boilerplate
+url:         http://the42nddruid.github.com
 
 ## The name of the site, <title> and <h1> in _layouts/default.html
-title:       GitHub Pages Boilerplate
+title:       The42ndDruid's GitHub
 
 ## <meta name=description> and <h2> in /_layouts/default.html
 description: Simplifying pages setup.
